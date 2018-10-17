@@ -107,4 +107,4 @@ Pour améliorer la qualité du projet, on peut vérifier à la compilation des c
 * Spare
 * Strike
 
-(Pensez ADT [Algrebic Data Type in Scala](http://tpolecat.github.io/presentations/algebraic_types.html#11))!
+(Pensez ADT [Algrebic Data Type in Scala](http://tpolecat.github.io/presentations/algebraic_types.html#11))!"# kata_bowling" 
